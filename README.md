@@ -6,4 +6,4 @@ closely, I worked meticulously on each piece of code and tried to make it the be
  
 so as not to tire the user.
 
-![](ude)
+![udegif](https://github.com/SercanErpolat/UdeSchooll-HTML-CSS/assets/110222359/cc887024-cac3-4098-8a16-58843c8bdfac)
